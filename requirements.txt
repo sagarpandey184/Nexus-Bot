@@ -1,0 +1,7 @@
+streamlit
+streamlit-autorefresh
+requests
+pandas
+ta
+plotly
+google-genai
